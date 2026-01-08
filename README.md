@@ -9,6 +9,7 @@ I am passionate about technology and focused on front-end development with React
 
 <div align="center">
   <img src="https://github-readme-stats-seven-nu-36.vercel.app/api?username=bruno-devbr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br />
   <img src="https://github-readme-stats-seven-nu-36.vercel.app/api/top-langs?username=bruno-devbr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
